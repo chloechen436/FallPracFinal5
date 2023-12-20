@@ -6,5 +6,7 @@
 [node name="World" type="Node2D"]
 
 [node name="Player" parent="." instance=ExtResource("1_fqhvx")]
+position = Vector2(300, 338)
 
 [node name="Enemy" parent="." instance=ExtResource("2_wxtv0")]
+position = Vector2(760, 344)
